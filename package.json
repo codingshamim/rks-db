@@ -1,0 +1,19 @@
+{
+  "name": "rks-db",
+  "version": "1.0.0",
+  "description": "A package that provides solutions to practice database problems with easy-to-use CRUD operations and database simulations.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node",
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codingshamim/rks-db.git"
+  },
+  "keywords": [
+    "\"rks-db\""
+  ],
+  "author": "Md Shamim Mia",
+  "license": "ISC"
+}
