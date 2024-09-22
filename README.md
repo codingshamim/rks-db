@@ -17,3 +17,13 @@ Install `rks-db` using npm:
 
 ```bash
 npm install rks-db
+
+## Usage
+
+### Importing the Module
+
+To use `rks-db`, import the functions you need from the package:
+
+```javascript
+import { make, findAll, findById, update, deleteById, deleteAll } from 'rks-db';
+
